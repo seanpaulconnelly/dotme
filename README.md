@@ -28,6 +28,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 - [ ] Header and navigation
 - [ ] Sidebar
 - [ ] Footer
+- [ ] Asset structure (scss, js)
 
 
 ### 2. Landing page
