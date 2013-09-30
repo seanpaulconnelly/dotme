@@ -25,34 +25,34 @@ To have a better self-marketing, well-structured, and conversion focused display
 
 ## Design and Content Checklist
 ### 1. Includes
-[] Header and navigation
-[] Sidebar
-[] Footer
+- [ ] Header and navigation
+- [ ] Sidebar
+- [ ] Footer
 
 
 ### 2. Landing page
-[] Personal UVP section
-[] Callout section
-	[] responsive/multi-device blurb
-	[] product management/scrum master blurb
-	[] featured work item widget
+- [ ] Personal UVP section
+- [ ] Callout section
+	- [ ] responsive/multi-device blurb
+	- [ ] product management/scrum master blurb
+	- [ ] featured work item widget
 
 
 ### 3. Work
-[] Category
-[] Single 
+- [ ] Category
+- [ ] Single 
 
 
 ### 4. Articles (blog)
-[] Category
-[] Single 
+- [ ] Category
+- [ ] Single 
 
 
 ### 5. Hire Me
-[] UVP to software development vendors and startups
-[] Contact form
+- [ ] UVP to software development vendors and startups
+- [ ] Contact form
 
 
 ### 6. Work With Me
-[] UVP to small businesses
-[] Contact form
+- [ ] UVP to small businesses
+- [ ] Contact form
