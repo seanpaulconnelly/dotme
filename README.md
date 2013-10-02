@@ -36,7 +36,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 - [ ] Callout section
 	- [ ] responsive/multi-device blurb
 	- [ ] product management/scrum master blurb
-	- [ ] featured work item widget
+	- [ ] technical/coding skills blurb
 
 
 ### 3. Work
@@ -57,3 +57,9 @@ To have a better self-marketing, well-structured, and conversion focused display
 ### 6. Work With Me
 - [ ] UVP to small businesses
 - [ ] Contact form
+- [ ] Sample proposal (email capture for download)
+
+
+### 7. Email Templates
+- [ ] Auto-response to contact form submission
+- [ ] Auto-response to sample proposal capture
