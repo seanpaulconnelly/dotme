@@ -18,10 +18,11 @@ To have a better self-marketing, well-structured, and conversion focused display
 * WordPress
 * Bootstrap 3
 * Various responsive tools used on m2m project
-* Flat design sitewide
+* Flat design, square corners, bold colors in key areas
+* Parallax background
 * Single, main navigation
 * Focused on self-marketing/conversion
-* Parallax background
+
 
 
 ## Design and Content Checklist
@@ -29,7 +30,9 @@ To have a better self-marketing, well-structured, and conversion focused display
 - [ ] Header and navigation
 - [ ] Sidebar
 - [ ] Footer
+	- [ ] Teams I've Worked With (logo stripe)
 - [x] Asset structure (scss, js)
+- [ ] Fonts: SourceSansPro 
 
 
 ### 2. Landing page
@@ -53,11 +56,11 @@ To have a better self-marketing, well-structured, and conversion focused display
 ### 5. Let's Get To Work (contact page)
 - [ ] UVP + process targeted at software development vendors and startups
 	- [ ] Contact Form
-	- [ ] 'Let's Meet' CTA
+	- [ ] 'Request a Meeting' CTA
 - [ ] UVP + process targeted at small businesses (freelance clients)
 	- [ ] Sample proposal
 	- [ ] Contact Form
-	- [ ] 'Let's Talk' CTA
+	- [ ] 'Get Started' CTA
 
 
 ### 6. Email Templates + MISC
