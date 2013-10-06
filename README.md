@@ -21,6 +21,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 * Flat design sitewide
 * Single, main navigation
 * Focused on self-marketing/conversion
+* Parallax background
 
 
 ## Design and Content Checklist
@@ -39,27 +40,26 @@ To have a better self-marketing, well-structured, and conversion focused display
 	- [ ] technical/coding skills blurb
 
 
-### 3. Work
+### 3. Projects
 - [ ] Category
 - [ ] Single 
 
 
-### 4. Articles (blog)
+### 4. Blog
 - [ ] Category
 - [ ] Single 
 
 
-### 5. Hire Me
-- [ ] UVP to software development vendors and startups
-- [ ] Contact form
+### 5. Let's Get To Work (contact page)
+- [ ] UVP + process targeted at software development vendors and startups
+	- [ ] Contact Form
+	- [ ] 'Let's Meet' CTA
+- [ ] UVP + process targeted at small businesses (freelance clients)
+	- [ ] Sample proposal
+	- [ ] Contact Form
+	- [ ] 'Let's Talk' CTA
 
 
-### 6. Work With Me
-- [ ] UVP to small businesses
-- [ ] Contact form
-- [ ] Sample proposal (email capture for download)
-
-
-### 7. Email Templates
+### 6. Email Templates + MISC
 - [ ] Auto-response to contact form submission
-- [ ] Auto-response to sample proposal capture
+- [ ] Making the contact page awesome.  maybe ember app?
