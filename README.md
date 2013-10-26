@@ -33,7 +33,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 	- [ ] "My sincere Thanks to all of the fantastic teams, partners, businesses, and clients, and friends who have helped me get this far." (logo stripe)
 - [x] Asset structure (scss, js)
 - [ ] Fonts: SourceSansPro 
-
+- [ ] Choose color swatch and set up mixins for each color
 
 ### 2. Landing page
 - [ ] Personal UVP section
@@ -44,25 +44,21 @@ To have a better self-marketing, well-structured, and conversion focused display
 
 
 ### 3. Work
-- [ ] Category
-- [ ] Single 
+- [x] Category
+- [x] Single 
 
 
 ### 4. Blog
-- [ ] Category
-- [ ] Single 
+- [x] Category
+- [x] Single 
 
 
 ### 5. Let's Get To Work (contact page)
-- [ ] UVP + process targeted at software development vendors and startups
-	- [ ] Contact Form
-	- [ ] 'Request a Meeting' CTA
-- [ ] UVP + process targeted at small businesses (freelance clients)
-	- [ ] Sample proposal
-	- [ ] Contact Form
-	- [ ] 'Get Started' CTA
+- [x] UVP + process targeted at software development vendors and startups
+- [x] UVP + process targeted at small businesses (freelance clients)
+- [x] Contact form
+
 
 
 ### 6. Email Templates + MISC
 - [ ] Auto-response to contact form submission
-- [ ] Making the contact page awesome.  maybe ember app?
