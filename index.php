@@ -2,7 +2,7 @@
 
 <style type="text/css">
 #intro { 
-    background: url(wp-content/themes/dotme/assets/images/intro.png) 50% 0 fixed; 
+    background: url(wp-content/themes/dotme/assets/images/backgrounds/intro.png) 50% 0 fixed; 
     height: auto;  
     margin: 0 auto; 
     width: 100%; 
@@ -10,7 +10,7 @@
     padding: 100px 0;
 }
 #content { 
-    background: url(wp-content/themes/dotme/assets/images/content.png) 50% 0 fixed; 
+    background: url(wp-content/themes/dotme/assets/images/backgrounds/content.png) 50% 0 fixed; 
     height: auto;  
     margin: 0 auto; 
     width: 100%; 
@@ -19,7 +19,7 @@
     color:#fff;
 }
 #footer { 
-    background: url(wp-content/themes/dotme/assets/images/footer.png) 50% 0 fixed; 
+    background: url(wp-content/themes/dotme/assets/images/backgrounds/footer.png) 50% 0 fixed; 
     height: auto;
     margin: 0 auto; 
     width: 100%; 
