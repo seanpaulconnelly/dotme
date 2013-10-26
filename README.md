@@ -30,7 +30,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 - [ ] Header and navigation
 - [ ] Sidebar
 - [ ] Footer
-	- [ ] "My sincere Thanks to all of the fantastic teams, partners, businesses, and clients who have helped me get this far." (logo stripe)
+	- [ ] "My sincere Thanks to all of the fantastic teams, partners, businesses, and clients, and friends who have helped me get this far." (logo stripe)
 - [x] Asset structure (scss, js)
 - [ ] Fonts: SourceSansPro 
 
@@ -43,7 +43,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 	- [ ] technical/coding skills blurb
 
 
-### 3. Projects
+### 3. Work
 - [ ] Category
 - [ ] Single 
 
