@@ -28,8 +28,7 @@ To have a better self-marketing, well-structured, and conversion focused display
 ## Design and Content Checklist
 ### 1. Includes
 - [ ] Header and navigation
-- [ ] Sidebar
-- [ ] Footer
+- [x] Footer
 	- [ ] "My sincere Thanks to all of the fantastic teams, partners, businesses, and clients, and friends who have helped me get this far." (logo stripe)
 - [x] Asset structure (scss, js)
 - [ ] Fonts: SourceSansPro 
